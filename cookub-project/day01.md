@@ -12,9 +12,9 @@
 
 ## To Do List (Today)
 
-- Spring Security
-- BCryptPasswordEncoder 오브젝트를 이용하여 암호화하여 비밀번호 저장
-- 회원가입 기능 구현
+- Spring Security(실패)
+- ~~BCryptPasswordEncoder 오브젝트를 이용하여 암호화하여 비밀번호 저장~~
+- ~~회원가입 기능 구현~~
 
 ## What I learned
 
@@ -27,13 +27,14 @@
 ```plain
   Spring Security 의 Role에 따라 권한 부여하는 기능 연습하기
   securtiy와 JWT 같이하여 로그인 후 클라이언트에 어떻게 통신하나?
+  Test 코드 어떻게 작성하는지 format 만들어 저장하기
 ```
 
 ## To Do List (Tomorrow)
 
 - JWT(JSON Web Token)
 - Filter 설정하기
-- 로그인 구현하기
+- 로그인 구현하기(시큐리티 없이 jwt 생성 전달하는 것 구현 생각해보자)
 
 ## Summary
 
